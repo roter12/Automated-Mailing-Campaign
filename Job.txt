@@ -1,0 +1,106 @@
+================================================================================================================================================
+JOB: Automated Mailing Campaign
+
+I am looking to do a massive mail campaign from a list of companies in an excel spreadsheet.
+I am needing data collection of the mailing addresses of all companies listed. 1200 total companies,
+from there I am looking for automation set up of a personalized tailored letter.
+
+Needing the 'lease name' and 'county and state' (also already in the Excel spreadsheet) 
+automated into each letter, as well as the name of the company and address (per draft letter).
+Draft letter will be provided upon acceptance of job.
+List of steps below are not necessary as long as overall job description above is completed, just an outline.
+
+Example List of Steps:
+
+1. Data Collection and Preparation:
+Using AI, or web scraping. Add in mailing address of all given operators in excel.
+
+Data Integration with Excel:
+Import or link your collected data to your Excel spreadsheet, ensuring that it's organized in a structured format.
+
+2. Natural Language Processing (NLP):
+Use NLP tools to personalize the content of your letters.
+You can extract relevant information from your Excel data and generate customized letters using AI-driven text generation models.
+
+3. Address Verification:
+Employ address verification services or APIs to validate and standardize the mailing addresses in your Excel file. 
+This ensures that your letters reach the correct destinations.
+
+4. Automation Platform:
+Utilize an automation platform or scripting language (e.g., Python) to automate the entire process.
+Write scripts that pull data from your Excel file, generate personalized letters using NLP, and insert the verified addresses.
+
+5. Printing and Mailing:
+Integrate with a printing and mailing service that can handle bulk mailing.
+Some services can automatically print and mail letters based on a provided template and recipient addresses.
+
+6. Tracking and Reporting:
+Implement tracking mechanisms to monitor the status of sent letters, such as delivery confirmation or response tracking.
+
+7. Testing and Quality Control:
+Thoroughly test your automation workflow on a small batch of data to ensure accuracy and correctness before scaling it up.
+
+8. Scaling and Execution:
+Once you're confident in your automation process, scale it up to process the entire Excel dataset.
+
+other third party websites can be utilized, will need to discuss before hand about pricing of using third party websites to mail/obtain data.
+Sample excel spreadsheet is attached, real spreadsheet has 1200 companies (operators).
+
+================================================================================================================================================
+MILESTONES:
+
+1. 100$ - Data collection, preparation and integration
+2. 100$ - NLP
+3. 150$ - Address Verification
+4. 200$ - Automation Platform
+5. 100$ - Printing and Mailing
+6. 100$ - Tracking and Reporting
+7. 150$ - Testing and Quality Control
+8. 100$ - Scaling and Execution
+
+================================================================================================================================================
+MILESTONES 1. Data collection, preparation and integration
+
+Site:
+1. https://www.shalexp.com
+2. https://www.mineralanswers.com/search/producers
+3. https://www.texas-drilling.com/operators (only texas)
+
+Or Google or you.com
+
+Note:
+Finding Company Email Addresses: Here's How to Do it
+https://onemorelead.com/finding-company-email-addresses/
+
+================================================================================================================================================
+MILESTONES 3. Address Verification
+
+Employ address verification services or APIs to validate and standardize the mailing addresses in your Excel file.
+
+Address verification services and APIs available, 
+- Google Maps Geocoding API(https://developers.google.com/maps/documentation/address-validation/overview#:~:text=The%20Address%20Validation%20API%20is,latitude%2Flongitude%20coordinates%20for%20it.)
+- USPS Address Validation API(https://www.smarty.com/articles/usps-api)
+- Loqate
+- Melissa
+- Geoapify
+- Postgrid
+- EasyPost(https://www.easypost.com/address-verification-api)
+- https://www.address-validator.net/api.html
+- https://www.edq.com/address-verification/api/
+
+@ Best Address Lookup and Validation APIs
+https://rapidapi.com/collection/top-address-validation-api
+
+================================================================================================================================================
+MILESTONE 5.
+
+Client: I am open to whatever you think, I have in the past used docupost.com, but I do not like their pricing.
+If you have a website you would recommend, maybe like stamps.com we can use whatever you prefer.
+But I won’t want to spend more than $500 on the mailing services.
+
+
+https://help.loopreturns.com/article/60-easypostsetup
+It integrates with EasyPost, a third-party service, to provide your customers with automatically generated shipping labels. Once you provide EasyPost with a list of carriers you’d like to use, Loop shops available carriers and service types to provide you the lowest possible shipping cost.
+
+https://help.orderdesk.com/article/74-easypost-integration
+
